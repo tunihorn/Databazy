@@ -1,0 +1,10 @@
+Rule,InvalidRows
+invalid_order_id,0
+duplicate_order_id,22
+invalid_region,0
+invalid_quantity,24
+invalid_sales_amount,38
+invalid_discount,177
+invalid_date,24
+invalid_date_logic,15
+invalid_phone,34
